@@ -4,6 +4,8 @@
       <mapping pattern="bu" type="PLAIN_TEXT" />
       <mapping pattern="dump" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
