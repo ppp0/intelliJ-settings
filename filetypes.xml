@@ -6,7 +6,6 @@
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="lua" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
