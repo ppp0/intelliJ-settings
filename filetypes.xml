@@ -4,6 +4,7 @@
       <mapping pattern="dump" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="format" type="PLAIN_TEXT" />
+      <mapping pattern="aacraid-status-json" type="PLAIN_TEXT" />
       <mapping pattern="git-patches" type="PLAIN_TEXT" />
       <mapping pattern="copyright" type="PLAIN_TEXT" />
       <mapping pattern="bu" type="PLAIN_TEXT" />
