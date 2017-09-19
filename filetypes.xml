@@ -10,6 +10,7 @@
       <mapping pattern="git-patches" type="PLAIN_TEXT" />
       <mapping pattern="copyright" type="PLAIN_TEXT" />
       <mapping pattern="bu" type="PLAIN_TEXT" />
+      <mapping ext="substvars" type="PLAIN_TEXT" />
       <mapping ext="tar" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
