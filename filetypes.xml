@@ -9,6 +9,7 @@
       <mapping pattern="aacraid-status-json" type="PLAIN_TEXT" />
       <mapping pattern="git-patches" type="PLAIN_TEXT" />
       <mapping pattern="copyright" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="bu" type="PLAIN_TEXT" />
       <mapping ext="substvars" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
