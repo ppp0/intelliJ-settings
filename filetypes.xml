@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile-test" type="Dockerfile" />
+      <mapping pattern="sk-php/Dockerfile" type="Dockerfile" />
       <mapping pattern="regex" type="PLAIN_TEXT" />
       <mapping pattern="dump" type="PLAIN_TEXT" />
       <mapping pattern="rules" type="PLAIN_TEXT" />
