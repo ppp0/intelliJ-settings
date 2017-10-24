@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Dockerfile-php" type="Dockerfile" />
       <mapping pattern="Dockerfile-test" type="Dockerfile" />
       <mapping pattern="sk-php/Dockerfile" type="Dockerfile" />
       <mapping pattern="regex" type="PLAIN_TEXT" />
@@ -13,6 +14,7 @@
       <mapping pattern="git-patches" type="PLAIN_TEXT" />
       <mapping pattern="copyright" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern="bu" type="PLAIN_TEXT" />
       <mapping ext="substvars" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
