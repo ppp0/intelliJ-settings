@@ -4,6 +4,7 @@
       <mapping pattern="Dockerfile-php" type="Dockerfile" />
       <mapping pattern="Dockerfile-test" type="Dockerfile" />
       <mapping pattern="sk-php/Dockerfile" type="Dockerfile" />
+      <mapping pattern="route/if-up" type="PLAIN_TEXT" />
       <mapping pattern="regex" type="PLAIN_TEXT" />
       <mapping pattern="image/data" type="PLAIN_TEXT" />
       <mapping pattern="dump" type="PLAIN_TEXT" />
